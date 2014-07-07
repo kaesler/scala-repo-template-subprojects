@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Vendor: TimeTrade Systems, Inc.
+Implementation-Title: queue-server
+Implementation-Version: 0
+Specification-Vendor: TimeTrade Systems, Inc.
+Specification-Title: Concierge Queue Server
+Specification-Version: working-local
+Main-Class: com.timetrade.queueservice.server.app.QueueServerApp
